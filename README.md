@@ -3,8 +3,12 @@
 
 ## Here are my stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ee3y0re&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ee3y0re&count_private=true&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ee3y0re&theme=rose_pine"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ee3y0re&count_private=true&show_icons=true&theme=rose_pine" />
+</a>
 
 ## Here is my inventory:
 
