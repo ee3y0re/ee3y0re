@@ -1,7 +1,5 @@
 # I'm on a quest to defeat the ultimate Boss Bug! ⚔️
 
-🕊 [Send a carrier pigeon virtually!](mailto:ajoyvmon@gmail.com)
-
 ## Here are my stats:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
